@@ -1,0 +1,16 @@
+# Airflow Sales ETL Pipeline
+
+This project demonstrates a production-style ETL pipeline built using:
+
+- Python (Pandas)
+- Apache Airflow
+- MySQL / SQLite
+- DAG scheduling
+
+Pipeline steps:
+1. Extract sales CSV data
+2. Transform and clean data
+3. Load into database
+4. Scheduled using Airflow DAG
+
+Author: Deepak Pradhan
